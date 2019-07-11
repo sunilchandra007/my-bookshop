@@ -4,6 +4,7 @@ https://blogs.sap.com/2019/05/22/sap-development-using-google-cloud-shell/
 
 ```sh
 git init
+git clone
 
 git stage *
 git commit -m "My Commit"
