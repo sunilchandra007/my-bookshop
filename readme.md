@@ -1,5 +1,7 @@
 # Getting Started
 
+https://blogs.sap.com/2019/05/22/sap-development-using-google-cloud-shell/
+
 Welcome to your new project. It contains a few files and folders following our **recommended project layout**:
 
 
