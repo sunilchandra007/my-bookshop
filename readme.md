@@ -2,6 +2,16 @@
 
 https://blogs.sap.com/2019/05/22/sap-development-using-google-cloud-shell/
 
+```sh
+git init
+
+git stage *
+git commit -m "My Commit"
+git push
+
+git log
+```
+
 Welcome to your new Project. It contains a few files and folders following our **recommended project layout**:
 
 
